@@ -1,0 +1,27 @@
+
+   body{
+    margin: 0%;
+   }
+   
+   #header{
+        background-color: black;
+        height: 55px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    
+    
+    .box-item{
+    height: 220px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    margin: 0 27px 27px 13px;
+     }
+
+     .footer-item{
+        width: 80%;
+        height: 45px;
+        margin: 70px auto;
+        border-radius: 10px;
+        background-color: plum;
+     }
